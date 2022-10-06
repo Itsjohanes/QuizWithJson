@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "id_soal": "7",
+      "soal": "Menurut Anda, di bawah ini adalah gambar?",
+      "a": "Avatar",
+      "b": "Pelangi",
+      "c": "Singa Laut",
+      "d": "Bulan",
+      "kunci": "Avatar",
+      "gambar": "avatar-1.png",
+      "tanggal": "2020-10-04",
+      "aktif": "Y"
+    }
+  ]
+}
